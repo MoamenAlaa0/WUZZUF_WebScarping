@@ -4,6 +4,7 @@ I have returned to implement the second version.
 
 ### Version :one: using: [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Selenium](https://selenium-python.readthedocs.io/getting-started.html)
 
+-----
 ### Version :two: using: [Requests-HTML](https://requests.readthedocs.io/projects/requests-html/en/latest/)
 
 
