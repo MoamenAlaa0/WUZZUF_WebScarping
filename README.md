@@ -3,7 +3,7 @@ Hi there :wave:, this project about scraping [Wuzzuf](https://wuzzuf.net/jobs/eg
 I have returned to implement the second version.
 
 - Version :one: using: BeautifulSoup and Selenium .. start date: 18/8/2022
-- Version :two: using: Requests-HTML .. start date: 1/8/2022
+- Version :two: using: Requests-HTML .. start date: 1/9/2022
 
 | Library/Method | Description |
 | --- | --- |
