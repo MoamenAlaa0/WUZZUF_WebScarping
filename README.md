@@ -17,7 +17,8 @@ I have returned to implement the second version.
 
 Honestly, second version is preferred to me :grin:	
 
-### :fountain_pen: Refernces
+### :book: Rreference
+CSS Selector Reference: https://www.w3schools.com/cssref/css_selectors.asp
 
 
 
