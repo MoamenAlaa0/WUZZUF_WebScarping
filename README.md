@@ -7,13 +7,13 @@ I have returned to implement the second version.
 
 | Library/Method | Description |
 | --- | --- |
-| [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) | pull the data out of HTML and XML files |
-| [Selenium](https://selenium-python.readthedocs.io/getting-started.html) | automation testing tool used to scrape dynamic javascript websites |
-| [requests](https://requests.readthedocs.io/en/latest/api/) | provides us with the capabilities of sending an HTTP request to a server |
-| [Requests-HTML](https://requests.readthedocs.io/projects/requests-html/en/latest/) | parsing HTML with JavaScript support |
-| [urljoin](https://docs.python.org/3/library/urllib.parse.html) | parse module to join a base URL with another URLs |
-| [time.sleep](https://docs.python.org/3/library/time.html#time.sleep) | add delay in the execution of a program |
-| [pandas.DataFrame.to_csv](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html) | write object to a comma-separated values (csv) file |
+| [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) | Pull the data out of HTML and XML files |
+| [Selenium](https://selenium-python.readthedocs.io/getting-started.html) | Automation testing tool used to scrape dynamic javascript websites |
+| [requests](https://requests.readthedocs.io/en/latest/api/) | Provides the capabilities of sending an HTTP request to a server |
+| [Requests-HTML](https://requests.readthedocs.io/projects/requests-html/en/latest/) | Parse HTML with JavaScript support |
+| [urljoin](https://docs.python.org/3/library/urllib.parse.html) | Parse module to join a base URL with another URLs |
+| [time.sleep](https://docs.python.org/3/library/time.html#time.sleep) | Add delay in the execution of a program |
+| [pandas.DataFrame.to_csv](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html) | Write object to a comma-separated values (csv) file |
 
 
 
