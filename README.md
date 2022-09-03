@@ -18,9 +18,9 @@ I have returned to implement the second version.
 Honestly, second version is preferred to me :grin:	
 
 ### :book: Rreference
-[365 Data Science Web Scraping course](https://learn.365datascience.com/courses/preview/web-scraping-and-api-fundamentals-in-python/)  
-[Python Selenium Tutorial](https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ)  
-[Render Dynamic Pages part 1](https://www.youtube.com/watch?v=MeBU-4Xs2RU&t=216s)  
-[Render Dynamic Pages part 2](https://www.youtube.com/watch?v=B14mtXA7Tyw)  
-[Python requests-html tutorial](https://www.alixaprodev.com/2022/04/python-requests-html-library.html)  
-[CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp) 
+- [365 Data Science Web Scraping course](https://learn.365datascience.com/courses/preview/web-scraping-and-api-fundamentals-in-python/)  
+- [Python Selenium Tutorial](https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ)  
+- [Render Dynamic Pages part 1](https://www.youtube.com/watch?v=MeBU-4Xs2RU&t=216s)  
+- [Render Dynamic Pages part 2](https://www.youtube.com/watch?v=B14mtXA7Tyw)  
+- [Python requests-html tutorial](https://www.alixaprodev.com/2022/04/python-requests-html-library.html)  
+- [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp) 
