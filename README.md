@@ -9,8 +9,13 @@ I have returned to implement the second version.
 | [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) | pull the data out of HTML and XML files |
 | [Selenium](https://selenium-python.readthedocs.io/getting-started.html) | automation testing tool used to scrape dynamic javascript websites |
 | [requests](https://requests.readthedocs.io/en/latest/api/) | provides us with the capabilities of sending an HTTP request to a server |
+
+
+| Method | Description |
+| --- | --- |
 | urljoin | parse module to join a base URL with another URLs |
 | time.sleep | add delay in the execution of a program |
+| pandas.DataFrame.to_csv | write object to a comma-separated values (csv) file |
 
 
 I have used requests library that provides us with the capabilities of sending an HTTP request to a server
