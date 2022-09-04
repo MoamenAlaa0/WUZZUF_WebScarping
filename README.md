@@ -1,5 +1,5 @@
 # :pick: WUZZUF Web Scraping 
-Hi there :wave:, this project about scraping [Wuzzuf](https://wuzzuf.net/jobs/egypt) website by applying two different web scraper versions. The first version was my first time doing web scraping, and after two weeks with hard working by reading in web scraping and applying some small projects like [YouTube comments](https://github.com/MoamenAlaa0/YouTube_Comments_WebScraping) and [Amazon reviews](https://github.com/MoamenAlaa0/Amazon_WebScraping) scraping, 
+Hi there :wave:, this project about scraping [Wuzzuf](https://wuzzuf.net/jobs/egypt) website by applying two different web scraper versions. The first version was my first time doing web scraping, and after two weeks with hard working by reading in web scraping and applying some small projects like [YouTube comments](https://github.com/MoamenAlaa0/YouTube_Comments_WebScraping), [Amazon reviews](https://github.com/MoamenAlaa0/Amazon_WebScraping) and [SEC Filings Tables](https://github.com/MoamenAlaa0/SEC-Web_Scraping) scraping, 
 I have returned to implement the second version.
 
 - Version :one: using: BeautifulSoup and Selenium 
